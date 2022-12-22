@@ -1,7 +1,7 @@
 Deployed Link - https://preeminent-paletas-42d939.netlify.app/
 
 Important Features - 
-1- Infinite Scroll API fetching.
+1- Infinite Scroll API fetching & handling dates.
 2- Each Row Horizontally Scrollable.
 3- Latest Data auto update.
 4- Individual Focus.

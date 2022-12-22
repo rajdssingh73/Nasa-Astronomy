@@ -1,3 +1,13 @@
+Deployed Link - https://preeminent-paletas-42d939.netlify.app/
+
+Important Features - 
+1- Infinite Scroll API fetching.
+2- Each Row Horizontally Scrollable.
+3- Latest Data auto update.
+4- Individual Focus.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
